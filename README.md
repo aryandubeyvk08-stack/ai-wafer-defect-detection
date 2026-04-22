@@ -1,12 +1,7 @@
 # 🔬 AI-Based Wafer Defect Detection
 ## 🌐 Live Demo
 👉https://ai-wafer-defect-detection-v7idry7yrozeijtldbihlr.streamlit.app/
-## 📸 Application Preview
 
-![App Screenshot](Screenshot 2026-04-23 030453.png)
-![App Screenshot](Screenshot 2026-04-23 030634.png)
-![App Screenshot](Screenshot 2026-04-23 030411.png)
-![App Screenshot](Screenshot 2026-04-23 030440.png)
 
 ---
 
