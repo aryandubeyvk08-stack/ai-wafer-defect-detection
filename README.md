@@ -1,5 +1,6 @@
 # 🔬 AI-Based Wafer Defect Detection
-
+## 🌐 Live Demo
+👉https://ai-wafer-defect-detection-v7idry7yrozeijtldbihlr.streamlit.app/
 ## 📸 Application Preview
 
 ![App Screenshot](Screenshot 2026-04-23 030453.png)
@@ -49,17 +50,11 @@ It simulates real-world semiconductor manufacturing and yield prediction using M
 
 ---
 
-## ▶️ How to Run
-
-```bash
-pip install -r requirements.txt
-python -m streamlit run wafer_defect_app.py
-```
-
-Then open:
-http://localhost:8501
-
----
+## 🧪 How to Use
+1. Enter wafer process parameters on the left panel
+2. Click predict
+3. View results dashboard and feature importance
+4. Download results if needed
 
 ## 🎯 Use Case
 
